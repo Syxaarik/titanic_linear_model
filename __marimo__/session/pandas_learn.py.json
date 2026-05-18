@@ -1,0 +1,48 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.22.4",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "YQid",
+      "code_hash": "4720e424ec617b907cf2844856eae435",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"pandas\">\u0423\u0447\u0435\u0431\u043d\u0438\u043a \u043f\u043e Pandas</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hbol",
+      "code_hash": "cb80ff6ec7fb25f9f5a083d38e936e73",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "4e034b59a96c278eef54c60634ac78e0",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}
